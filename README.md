@@ -5,7 +5,7 @@
 3. Open Unity Hub and under the "Projects" tab, click on the "Add" button to browse and open the project
 4. Once the Unity Editor is open, download the GitHub for Unity3D asset pack from [https://unity.github.com/](https://unity.github.com/)
 5. Run the ".unitypackage" file and select import when prompted to in the Unity Editor
-6. (on macOS only) Install [Homebrew](https://brew.sh/) (if you haven't already done so) and run `brew install git git-lfs` to install Git LFS
+6. (on macOS only) Install [Homebrew](https://brew.sh/) (if you haven't already done so) and run `brew install git-lfs` to install Git LFS
 7. In the Unity Editor, open the GitHub tools with "Window" > "GitHub"
-8. In the settings Tab fill out the Git Configuration for "Name" and "Email", then press "Save User"
+8. In the settings Tab fill out the Git Configuration for your "Name" and "Email", then press "Save User"
 9. Then on the top-right corner, click the "Account" or "Sign In" button and login with your GitHub credentials
